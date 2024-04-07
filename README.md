@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [raylib-breakout-game](https://github.com/OnurSevkiOkan/breakout-raylib)
 
-- 🌱 I’m currently learning **Raylib, Networking in C++**
+- 🌱 I’m currently learning **Raylib, Windows Development in C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnurSevkiOkan](https://github.com/OnurSevkiOkan)
 
